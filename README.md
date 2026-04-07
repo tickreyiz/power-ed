@@ -3,7 +3,7 @@
 **POWER-ed** is a lightweight web application that provides user-friendly access to NASA’s POWER climate data.  
 It fetches 10 years of historical temperature and precipitation data for any location and date, then applies machine learning to estimate the expected temperature and probability of rain.
 
-This project was **entirely designed and developed by a single developer in just 2 days** for the **2025 NASA Space Apps Challenge**.
+This project was **entirely designed and developed in just 2 days** for the **2025 NASA Space Apps Challenge**.
 
 - [Project Demo](https://www.youtube.com/watch?v=eOwu1O-hj1k)  
 - [Project Link](https://www.spaceappschallenge.org/2025/find-a-team/onemanmission/)
